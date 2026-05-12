@@ -1,1 +1,2 @@
-Verzija: master - azurirana
+
+Verzija: master - azurirana i konflikt-test grana
