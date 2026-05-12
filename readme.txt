@@ -1,1 +1,2 @@
 README datoteka.
+Hotfix izmjena.
